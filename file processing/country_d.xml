@@ -1,0 +1,31 @@
+<country>
+<KA>
+    <dist name="Bangalore">
+       <population>1500000</population>
+       <ocupation>IT</ocupation>
+    </dist>
+	<dist name="mandya">
+       <population>1600000</population>
+       <ocupation>farming</ocupation>
+    </dist>
+    <dist name="mangalore">
+       <population>1700000</population>
+       <ocupation>Pharama</ocupation>
+    </dist>
+</KA>
+
+<ap>
+    <dist name="Anantapur">
+       <population>1500000</population>
+       <ocupation>farming</ocupation>
+    </dist>
+	<dist name="kurnool">
+       <population>1600000</population>
+       <ocupation>farming</ocupation>
+    </dist>
+    <dist name="KADAPA">
+       <population>1700000</population>
+       <ocupation>farming</ocupation>
+    </dist>
+</ap>
+</country>
